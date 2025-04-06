@@ -1,7 +1,8 @@
+/* header */
+
 header{
     
 }
-a:hover
 body {
     font-family: "Roboto", sans-serif;
     color: #434455;
@@ -37,6 +38,9 @@ body {
         letter-spacing: 0.02em;
         color: #2e2f42;
 }
+.addres{
+    font-style: normal;
+}
 .contacts{
     font-family: "Roboto", sans-serif;
         font-weight: 400;
@@ -46,7 +50,12 @@ body {
         line-height: 150%;
         letter-spacing: 0.02em;
         color: #434455;
+        
 }
+.contacts:hover,
+.contacts:focus {
+    background-color: #404BBF;
+    color: #404BBF;
 .section-one{
     
         background-color: #2e2f42;
