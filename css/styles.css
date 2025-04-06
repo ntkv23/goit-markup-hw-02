@@ -52,6 +52,11 @@ body {
         color: #434455;
         
 }
+.header-list:hover,
+.header-list:focus {
+    background-color: #404bbf;
+    color: white;}
+
 .contacts:hover,
 .contacts:focus {
     background-color: #404BBF;
