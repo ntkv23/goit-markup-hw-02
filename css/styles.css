@@ -39,6 +39,29 @@ body {
 .list-studio {
     color: #2e2f42;
 }
+.list-studio:hover,
+
+.list-studio:focus{
+    color: #404bbf;
+
+}
+.list-portfolio{
+    color: #2e2f42;
+
+}
+.list-portfolio:hover,
+
+.list-portfolio:focus {
+    color: #404bbf;
+}
+    .list-contacts{
+color: #2e2f42;
+}
+.list-contacts:hover,
+
+.list-contacts:focus {
+    color: #404bbf;
+ }   
 .addres{
     font-style: normal;
 }
@@ -57,10 +80,7 @@ body {
         }
         
 }
-.header-list:hover,
-.header-list:focus {
-    background-color: #404bbf;
-    color: white;}
+
 
 .contacts:hover,
 .contacts:focus {
