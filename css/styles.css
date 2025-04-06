@@ -64,26 +64,20 @@ body {
         }
         
 }
-.contacts-mail{
+.contacts-out{
 color: #434455;
 }
-.contacts-tel{
-color: #434455;
-}
-.contacts-mail:hover,
 
-.contacts-mail:focus {
-    color: #404bbf;
-}
-.contacts-tel:hover,
+.contacts-out:hover,
 
-.contacts-tel:focus {
+.contacts-out:focus {
     color: #404bbf;
 }
 
 
 
 
+/* section-one */
 
 .section-one{
     
@@ -119,6 +113,32 @@ cursor: pointer;
     color: white;
    
 }
+
+/* section two */
+.section-two-title{
+    font-family: "Roboto", sans-serif;
+        font-weight: 500;
+        font-size: 20px;
+    
+        /* line-height: 24px; */
+        line-height: 120%;
+        letter-spacing: 0.02em;
+        color: #2e2f42;
+}
+.section-two-paragraph{
+    font-family: "Roboto", sans-serif;
+        font-weight: 400;
+        font-size: 16px;
+    
+        /* line-height: 24px; */
+        line-height: 150%;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
+
+
+
+
 /* footer */
 .footer-head{
     background: #2e2f42;
