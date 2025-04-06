@@ -7,7 +7,7 @@ body {
     color: #434455;
     background-color: #FFFFFF;
 }
-.title-all{
+.title-logo{
     font-family: "Raleway", sans-serif;
         font-weight: 700;
         font-size: 18px;
@@ -80,4 +80,17 @@ cursor: pointer;
     background-color: #404BBF;
     color: white;
    
+}
+/* footer */
+footer{
+    background: #2e2f42;
+}
+.footer-teks{
+    font-family: "Roboto", sans-serif;
+        font-weight: 400;
+        font-size: 16px;
+
+        line-height: 150%;
+        letter-spacing: 0.02em;
+        color: #f4f4fd;
 }
