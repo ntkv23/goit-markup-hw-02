@@ -135,9 +135,44 @@ cursor: pointer;
         letter-spacing: 0.02em;
         color: #434455;
 }
+/* section three */
+.section-three{
+    background: #f4f4fd;
+}
+.team-title{
+font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-size: 36px;
 
+    /* line-height: 40px; */
+    line-height: 111%;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;
+}
 
+.teammates{
+font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 20px;
 
+    /* line-height: 24px; */
+    line-height: 120%;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;
+}
+.devolopers{
+font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+
+    /* line-height: 24px; */
+    line-height: 150%;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #434455;
+}
 
 /* footer */
 .footer-head{
