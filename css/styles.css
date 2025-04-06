@@ -139,7 +139,9 @@ cursor: pointer;
 .section-three{
     background: #f4f4fd;
 }
-
+.team-list{
+    background-color: #FFFFFF;
+}
 .team-title{
 font-family: "Roboto", sans-serif;
     font-weight: 700;
