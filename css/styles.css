@@ -1,6 +1,7 @@
 header{
     
 }
+a:hover
 body {
     font-family: "Roboto", sans-serif;
     color: #434455;
@@ -62,8 +63,21 @@ body {
         color: #fff;
 }
 .button{
+font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
 
-        
-       
-            background: #4d5ae5;
+
+    line-height: 150%;
+    letter-spacing: 0.04em;
+    color: #fff;
+cursor: pointer;
+
+
+}
+.button:hover,
+.button:focus {
+    background-color: #404BBF;
+    color: white;
+   
 }
